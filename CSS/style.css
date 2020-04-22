@@ -1,0 +1,49 @@
+.nav-wrapper{
+	background-color: #ff6f00 ;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #ff6f00;
+}
+.move{
+	margin-bottom: 20px;
+}
+.parallax-container{
+	min-height: 280px;
+	height: auto;
+}
+.read{
+	background-color: #ff6f00;
+}
+.icon-chicken{
+	color: #ffffff ;
+}
+.icon-nav{
+	font-size: 20px;
+}
+.icon-sidenav{
+	width: inherit;
+}
+.fa{
+	font-size: 20px;
+	 color: #ffffff;
+	 margin-right: 5px;
+}
+.title-page{
+	margin-left: 2%;
+}
+.ic_s{
+	line-height: 2
+}
+.disp{
+	  display: inline-flex !important;
+}
+.footer-one{
+	background: #ff6f00;
+}
+.footer-two{
+	background: #ff8f00;
+}
+.foot_text{
+text-align: end;
+}
